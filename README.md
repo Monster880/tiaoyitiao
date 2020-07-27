@@ -20,5 +20,3 @@ https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html
 ```
 
 #### 3、执行
-
-![image-20200727202544828](C:\Users\53956\AppData\Roaming\Typora\typora-user-images\image-20200727202544828.png)
